@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\domain\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:domain\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\app.db||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:app.db||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\domain\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F7EBC8-1CC8-4FBB-AAD0-EFCB4BA2ED8D}|TimeTracker.csproj|solutionrelative:domain\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:57:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:57:37.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T01:55:44.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.db",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\app.db",
+              "RelativeDocumentMoniker": "app.db",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\app.db",
+              "RelativeToolTip": "app.db",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-20T01:55:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\TimeEntry.cs",
+              "RelativeDocumentMoniker": "Domain\\TimeEntry.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\TimeEntry.cs",
+              "RelativeToolTip": "Domain\\TimeEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:55:03.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\Project.cs",
+              "RelativeDocumentMoniker": "Domain\\Project.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\Project.cs",
+              "RelativeToolTip": "Domain\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:54:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\Client.cs",
+              "RelativeToolTip": "Domain\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:54:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:54:18.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
