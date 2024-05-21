@@ -1,20 +1,22 @@
-﻿using Microsoft.IdentityModel.Tokens;
+﻿using System;
+using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.IdentityModel.Tokens;
 
 namespace TimeTracker
 {
     public static class JwtTokenGenerator
     {
-        // WARNING: This is just for demo purpose
+        // WARNING: This is just for demo purpose, not for production use
         public static string Generate(string name, bool isAdmin, string issuer, string key)
         {
             var claims = new List<Claim>
-        {
-            new Claim(JwtRegisteredClaimNames.Sub, name),
-            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-        };
+            {
+                new Claim(JwtRegisteredClaimNames.Sub, name),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+            };
             if (isAdmin) claims.Add(new Claim(ClaimTypes.Role, "admin"));
 
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));

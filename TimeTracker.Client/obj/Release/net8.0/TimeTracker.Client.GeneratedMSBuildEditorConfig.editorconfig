@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = TimeTracker.Client
+build_property.RootNamespace = TimeTracker.Client
+build_property.ProjectDir = C:\Users\seanl\Desktop\KLK\TimeTracker\TimeTracker.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\seanl\Desktop\KLK\TimeTracker\TimeTracker.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Authorizing.razor]
+build_metadata.AdditionalFiles.TargetPath = QXV0aG9yaXppbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/ClientDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50RGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/ClientEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50RWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/Clients.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/ProjectDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdERlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/ProjectEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/TimeEntryDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGltZUVudHJ5RGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/TimeEntryEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGltZUVudHJ5RWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/UserDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckRlbGV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/UserEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlckVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Pages/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Shared/Pager.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gxef4xnl3i
+
+[C:/Users/seanl/Desktop/KLK/TimeTracker/TimeTracker.Client/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rsw4iewigf

@@ -1,0 +1,6 @@
+C:\Users\seanl\Desktop\KLK\TimeTracker\test\TimeTracker.Tests\obj\Debug\net8.0\TimeTracker.Tests.csproj.AssemblyReference.cache
+C:\Users\seanl\Desktop\KLK\TimeTracker\test\TimeTracker.Tests\obj\Debug\net8.0\TimeTracker.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanl\Desktop\KLK\TimeTracker\test\TimeTracker.Tests\obj\Debug\net8.0\TimeTracker.Tests.AssemblyInfoInputs.cache
+C:\Users\seanl\Desktop\KLK\TimeTracker\test\TimeTracker.Tests\obj\Debug\net8.0\TimeTracker.Tests.AssemblyInfo.cs
+C:\Users\seanl\Desktop\KLK\TimeTracker\test\TimeTracker.Tests\obj\Debug\net8.0\TimeTracker.Tests.csproj.CoreCompileInputs.cache
+C:\Users\seanl\Desktop\KLK\TimeTracker\test\TimeTracker.Tests\obj\Debug\net8.0\TimeTracker.Tests.sourcelink.json

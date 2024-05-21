@@ -5,6 +5,7 @@ namespace TimeTracker.Data
 {
     public class TimeTrackerDbContext : DbContext
     {
+
         public TimeTrackerDbContext(DbContextOptions<TimeTrackerDbContext> options)
             : base(options)
         {
@@ -75,6 +76,8 @@ namespace TimeTracker.Data
                 });
 
         }
+     
+
 
     }
 

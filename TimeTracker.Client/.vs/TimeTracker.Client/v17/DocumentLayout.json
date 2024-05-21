@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\authorizing.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:authorizing.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\clientdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\clientdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\clients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\clients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\clientedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\clientedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\models\\clientinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:models\\clientinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:models\\clientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\useredit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\useredit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\projectedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\projectedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\timeentrydelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\timeentrydelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\timeentryedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\timeentryedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\userdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\userdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|c:\\users\\seanl\\desktop\\klk\\timetracker\\timetracker.client\\pages\\projectdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176A522C-4DE0-4752-9CB8-7A19DAE3635B}|TimeTracker.Client.csproj|solutionrelative:pages\\projectdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authorizing.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Authorizing.razor",
+              "RelativeDocumentMoniker": "Authorizing.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Authorizing.razor",
+              "RelativeToolTip": "Authorizing.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:11:39.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:11:02.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:10:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientDelete.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ClientDelete.razor",
+              "RelativeDocumentMoniker": "Pages\\ClientDelete.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ClientDelete.razor",
+              "RelativeToolTip": "Pages\\ClientDelete.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:09:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientEdit.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ClientEdit.razor",
+              "RelativeDocumentMoniker": "Pages\\ClientEdit.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ClientEdit.razor",
+              "RelativeToolTip": "Pages\\ClientEdit.razor",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:09:13.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clients.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Clients.razor",
+              "RelativeDocumentMoniker": "Pages\\Clients.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Clients.razor",
+              "RelativeToolTip": "Pages\\Clients.razor",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:09:12.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Models\\ClientInputModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClientInputModel.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Models\\ClientInputModel.cs",
+              "RelativeToolTip": "Models\\ClientInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:09:04.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientModel.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Models\\ClientModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClientModel.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Models\\ClientModel.cs",
+              "RelativeToolTip": "Models\\ClientModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:09:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:05:47.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "Pages\\Users.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Users.razor",
+              "RelativeToolTip": "Pages\\Users.razor",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAD4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:04:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserEdit.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\UserEdit.razor",
+              "RelativeDocumentMoniker": "Pages\\UserEdit.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\UserEdit.razor",
+              "RelativeToolTip": "Pages\\UserEdit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:04:25.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDelete.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\UserDelete.razor",
+              "RelativeDocumentMoniker": "Pages\\UserDelete.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\UserDelete.razor",
+              "RelativeToolTip": "Pages\\UserDelete.razor",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:04:20.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeEntryEdit.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\TimeEntryEdit.razor",
+              "RelativeDocumentMoniker": "Pages\\TimeEntryEdit.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\TimeEntryEdit.razor",
+              "RelativeToolTip": "Pages\\TimeEntryEdit.razor",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAIMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:03:53.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeEntryDelete.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\TimeEntryDelete.razor",
+              "RelativeDocumentMoniker": "Pages\\TimeEntryDelete.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\TimeEntryDelete.razor",
+              "RelativeToolTip": "Pages\\TimeEntryDelete.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:03:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Projects.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Projects.razor",
+              "RelativeDocumentMoniker": "Pages\\Projects.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Projects.razor",
+              "RelativeToolTip": "Pages\\Projects.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:03:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectEdit.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ProjectEdit.razor",
+              "RelativeDocumentMoniker": "Pages\\ProjectEdit.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ProjectEdit.razor",
+              "RelativeToolTip": "Pages\\ProjectEdit.razor",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:02:18.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectDelete.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ProjectDelete.razor",
+              "RelativeDocumentMoniker": "Pages\\ProjectDelete.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\ProjectDelete.razor",
+              "RelativeToolTip": "Pages\\ProjectDelete.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:02:07.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Login.razor",
+              "RelativeToolTip": "Pages\\Login.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:02:02.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\seanl\\Desktop\\KLK\\TimeTracker\\TimeTracker.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:01:43.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

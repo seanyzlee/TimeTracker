@@ -1,18 +1,25 @@
-﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using NSwag.Annotations;
+
 
 namespace TimeTracker.Controllers
 {
     // DEMO PURPOSE ONLY!
- 
-    public class DummyAuthController(IConfiguration configuration) : Controller
+    [OpenApiIgnore]
+    [ApiExplorerSettings(IgnoreApi = true)]
+    public class DummyAuthController : Controller
     {
-        private readonly IConfiguration _configuration = configuration;
+        private readonly IConfiguration _configuration;
+
+        public DummyAuthController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
 
         // NOT FOR PRODUCTION USE!!!
         // you will need a robust auth implementation for production
         // i.e. try IdentityServer4
-        [AllowAnonymous]
         [Route("/get-token")]
         public IActionResult GenerateToken(string name = "aspnetcore-workshop-demo", bool admin = false)
         {
@@ -23,4 +30,3 @@ namespace TimeTracker.Controllers
         }
     }
 }
-
